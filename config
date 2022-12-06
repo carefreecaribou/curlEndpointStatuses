@@ -1,0 +1,1020 @@
+url = "http://44.208.24.211:18080/"
+-I
+-v
+
+url = "http://44.208.24.211:18080/"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/assignment"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/assignment"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/assignment"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/assignment"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/assignment"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/assignment/"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/assignment/1"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/assignment/1/by-assignee"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/assignment/1/review"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/assignment/2"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/assignment/2/by-assignee"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/assignment/2/colorGrade"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/assignment/2/review"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/auth"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/auth/login"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/auth/login"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/auth/login"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/auth/logout"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/auth/logout"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/auth/logout"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/auth/logout"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/auth/logout"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/auth/logout"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/auth/logout"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/auth/logout"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/auth/logout"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/auth/refresh"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/auth/status"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/auth/status/logged-in"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/auth/status/logged-in"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/auth/status/logged-in"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/auth/status/logged-in"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/auth/status/logged-in"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/auth/status/logged-in"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/auth/status/logged-in"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/auth/status/logged-in"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/auth/status/logged-in"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/auth/status/logged-in"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/auth/status/logged-in"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/auth/status/logged-in"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/auth/status/logged-in"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/auth/status/logged-in"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/auth/status/logged-in"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/auth/status/logged-in"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/auth/status/logged-in"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/auth/status/logged-in"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/auth/status/logged-in"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/2"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/2/identifyingCoordinate"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/2/identifyingCoordinate"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/2/identifyingCoordinate"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/2/identifyingCoordinate"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/2/identifyingCoordinate"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/2/identifyingCoordinate"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/2/identifyingCoordinate"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/2/identifyingCoordinate"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/2/identifyingCoordinate"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/2/identifyingCoordinate"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/2/identifyingCoordinate"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/2/identifyingCoordinate"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/2/identifyingCoordinate"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/2/identifyingCoordinate"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/2/identifyingCoordinate"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/assignment"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/assignment/2"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/assignment/2/identifyingCoordinate"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/identifyingCoordinate"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/identifyingCoordinate/5"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/identifyingCoordinate/5/identifyingCoordinateField"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/identifyingCoordinate/5/identifyingCoordinateField"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/identifyingCoordinate/5/identifyingCoordinateField"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/identifyingCoordinate/5/identifyingCoordinateField"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/identifyingCoordinate/5/identifyingCoordinateField"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/identifyingCoordinate/5/identifyingCoordinateField"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/identifyingCoordinate/5/identifyingCoordinateField"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/identifyingCoordinate/5/identifyingCoordinateField"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/identifyingCoordinate/5/identifyingCoordinateField"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/identifyingCoordinate/7"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/identifyingCoordinate/7/identifyingCoordinateField"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/identifyingCoordinate/7/identifyingCoordinateField"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/identifyingCoordinate/7/identifyingCoordinateField"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/identifyingCoordinate/7/identifyingCoordinateField"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/identifyingCoordinate/7/identifyingCoordinateField"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/identifyingCoordinate/7/identifyingCoordinateField"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/identifyingCoordinate/7/identifyingCoordinateField"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/identifyingCoordinate/8"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/identifyingCoordinate/8/identifyingCoordinateField"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/identifyingCoordinate/8/identifyingCoordinateField"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/identifyingCoordinate/8/identifyingCoordinateField"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/identifyingCoordinate/8/identifyingCoordinateField"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/identifyingCoordinate/8/identifyingCoordinateField"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/identifyingCoordinate/8/identifyingCoordinateField"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/identifyingCoordinateTypeMap"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/identifyingCoordinateTypes"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/entity/identifyingCoordinateTypes/"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/file"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/file/ref"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/file/ref/MPK20_GOVERNMENT%20WEBSITES_Factory_MPK20.txt"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/file/ref/MPK20_GOVERNMENT%20WEBSITES_Factory_MPK20.txt/download"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/owners"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/owners/"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/owners/ownershipMap"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/owners/ownershipMap/upsert"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/owners/ownershipMap/upsert"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/owners/ownershipMap/upsert"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/owners/upsert"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/owners/upsert"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/owners/upsert"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/owners/upsert"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/owners/upsert"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/owners/upsert"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/owners/upsert"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/owners/upsert"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/owners/upsert"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/owners/upsert"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/owners/upsert"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/program"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/program/"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/program/checkActive"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/program/checkActive/1"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/program/checkActive/1/1"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/program/checkActive/1/undefined"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/program/checkActive/2"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/program/checkActive/2/2"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/program/checkActive/2/undefined"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/program/checkActive/3"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/program/checkActive/3/3"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/program/checkActive/3/5"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/program/checkActive/3/undefined"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/program/checkActive/4"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/program/checkActive/4/11"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/program/checkActive/7"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/program/checkActive/7/12"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/program/checkActive/7/undefined"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/program/programComponents"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/program/programComponents"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/program/programComponents/1"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/program/programComponents/1"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/program/programComponents/1/componentObjects"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/program/programComponents/2"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/program/programComponents/2"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/program/programComponents/2/componentObjects"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/program/programComponents/3"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/program/programComponents/3"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/program/programComponents/3/componentObjects"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/program/programComponents/4"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/program/programComponents/4"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/program/programComponents/4/componentObjects"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/program/programComponents/7"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/program/programComponents/7"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/program/programComponents/7/componentObjects"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchParameters"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchParameters"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchParameters/assignment"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchParameters/assignment/1"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchParameters/assignment/1/repositories"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchParameters/assignment/2"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchParameters/assignment/2/repositories"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchParameters/repositories"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchParameters/terms"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchParameters/terms/insertResponseTerm"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchParameters/terms/insertResponseTerm"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/2"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/2/file"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/2/file"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/9"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/9/file"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/9/file"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/9/file"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/1"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/1/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/1"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/1/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/1/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/1/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/1/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/1/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/1/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/1/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/1/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/1/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/1/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/1/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/1/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/1/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/1/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/1/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/1/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/1/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/1/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/1/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/2"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/2/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/2/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/2/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/2/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/2/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/4"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/4/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/4/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/4/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/4/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/4/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/4/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/4/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/4/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/4/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/4/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/4/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/4/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/8"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/8/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/8/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/8/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/repositoryQuestion/8/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/researchResponse/assignment/2/response"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/user"
+-I
+-v
+
+url = "http://44.208.24.211:18080/api/user/"
+-I
+-v
+
+url = "http://44.208.24.211:18081/"
+-I
+-v
+
+url = "http://44.208.24.211:18081/"
+-I
+-v
+
+url = "http://44.208.24.211:18081/favicon.ico"
+-I
+-v
+
+url = "http://44.208.24.211:18081/main.96fe4d0e56e24e8a59a1.hot-update.js"
+-I
+-v
+
+url = "http://44.208.24.211:18081/main.96fe4d0e56e24e8a59a1.hot-update.json"
+-I
+-v
+
+url = "http://44.208.24.211:18081/main.a4e65fe71206092a4578.hot-update.json"
+-I
+-v
+
+url = "http://44.208.24.211:18081/manifest.json"
+-I
+-v
+
+url = "http://44.208.24.211:18081/program"
+-I
+-v
+
+url = "http://44.208.24.211:18081/program/1"
+-I
+-v
+
+url = "http://44.208.24.211:18081/program/1/1"
+-I
+-v
+
+url = "http://44.208.24.211:18081/program/1/1/1"
+-I
+-v
+
+url = "http://44.208.24.211:18081/program/1/4"
+-I
+-v
+
+url = "http://44.208.24.211:18081/program/1/4/11"
+-I
+-v
+
+url = "http://44.208.24.211:18081/program/1/4/11/conduct-research"
+-I
+-v
+
+url = "http://44.208.24.211:18081/program/1/4/11/conduct-research/assignment"
+-I
+-v
+
+url = "http://44.208.24.211:18081/program/1/4/11/conduct-research/assignment/2"
+-I
+-v
+
+url = "http://44.208.24.211:18081/program/1/4/11/conduct-research/assignment/2/entity"
+-I
+-v
+
+url = "http://44.208.24.211:18081/program/1/4/11/conduct-research/assignment/2/entity/2"
+-I
+-v
+
+url = "http://44.208.24.211:18081/program/1/4/11/conduct-research/assignment/2/entity/2/repository"
+-I
+-v
+
+url = "http://44.208.24.211:18081/program/1/4/11/conduct-research/assignment/2/entity/2/repository/1"
+-I
+-v
+
+url = "http://44.208.24.211:18081/program/1/4/11/conduct-research/assignment/2/entity/2/repository/1/responses"
+-I
+-v
+
+url = "http://44.208.24.211:18081/static"
+-I
+-v
+
+url = "http://44.208.24.211:18081/static/js"
+-I
+-v
+
+url = "http://44.208.24.211:18081/static/js/bundle.js"
+-I
+-v
+
+url = "http://44.208.24.211:18081/ws"
+-I
+-v
+
